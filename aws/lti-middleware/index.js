@@ -30,7 +30,7 @@ const consumerKeySecretMap = {
     key: "secret",
 };
 
-const oatsHost = "https://cahlr.github.io/OATutor-Chemistry/#";
+const oatsHost = "https://quadro.ist.berkeley.edu:3001/OATutor-Chemistry/#";
 const unlinkedPage = "assignment-not-linked";
 const alreadyLinkedPage = "assignment-already-linked";
 const jwtAlgorithm = "HS256";
